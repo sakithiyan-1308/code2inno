@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cyberpunkcity1
+* source:	https://sketchfab.com/3d-models/cyberpunkcity1-0c33b6ac87854dd2bd0444f94f4ac2dc
+* author:	eelislay (https://sketchfab.com/eelislay)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cyberpunkcity1" (https://sketchfab.com/3d-models/cyberpunkcity1-0c33b6ac87854dd2bd0444f94f4ac2dc) by eelislay (https://sketchfab.com/eelislay) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
