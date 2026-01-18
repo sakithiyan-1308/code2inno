@@ -4,7 +4,7 @@ import { useControls } from 'leva';
 import * as THREE from 'three';
 
 const CityModel = () => {
-    const gltf = useGLTF('/scene.gltf');
+    const gltf = useGLTF('/scene.glb');
 
     // 1. Leva Controls
     const { envMapIntensity, fogColor, fogDensity } = useControls('City Atmosphere', {
